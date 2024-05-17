@@ -1,3 +1,2 @@
-import GameSavingLoader from './app';
-
-GameSavingLoader.load();
+import './app';
+import './character';
